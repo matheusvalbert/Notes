@@ -1,4 +1,4 @@
-# Calendar
+# Notes
 
 <img src="https://github.com/matheusvalbert/Notes/blob/main/dark.gif" width="300"/> <img src="https://github.com/matheusvalbert/Notes/blob/main/light.gif" width="300"/>
 
